@@ -5,7 +5,6 @@
   "framework": "nextjs",
   "public": true,
   "env": {},
-  "regions": ["iad1", "sin1"],
   "functions": {
     "api/**/*.js": {
       "memory": 1024,
