@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "INNOVEXA",
+  "description": "INNOVEXA is a digital agency helping small businesses get online with honest pricing. We build websites that actually help your business grow.",
+  "url": "https://innovexa.com",
+  "logo": "https://i.ibb.co/SDTX1Pb5/IMG-20251005-WA0002-removebg-preview-removebg-preview.png",
+  "image": "https://i.ibb.co/SDTX1Pb5/IMG-20251005-WA0002-removebg-preview-removebg-preview.png",
+  "areaServed": {
+    "@type": "Country",
+    "name": "IN"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "IN",
+    "addressLocality": "India"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Support",
+    "telephone": "+91-95660-61075",
+    "email": "innovexa.digitalservices@gmail.com"
+  },
+  "sameAs": [
+    "https://www.instagram.com/innovexa/",
+    "https://wa.me/919566061075"
+  ],
+  "priceRange": "₹15000-₹75000",
+  "serviceType": [
+    "Web Development",
+    "SEO Optimization",
+    "Video Editing",
+    "Content Writing",
+    "Graphic Design"
+  ]
+}

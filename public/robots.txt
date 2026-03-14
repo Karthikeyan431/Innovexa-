@@ -1,0 +1,19 @@
+# Allow all robots
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+Disallow: /_next/
+Disallow: /admin
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Crawl delay (milliseconds)
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://innovexa.com/sitemap.xml
